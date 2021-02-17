@@ -1,1 +1,1 @@
-# vidly-node
+# vidly-node backend for vidliy app
